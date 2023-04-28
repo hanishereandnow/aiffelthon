@@ -85,6 +85,16 @@
 
 <br/>
 
+* 모델 시뮬레이션
+![슬라이드33](https://user-images.githubusercontent.com/106140951/235036288-9939fec8-3d6a-4b03-9d5a-eb0141980cc2.JPG)
+
+<br/>
+
+* 최종 모델 선정
+![k제조_깃허브용-021](https://user-images.githubusercontent.com/106140951/235037086-d5cc529b-255d-4478-863a-3f15abfdd394.jpg)
+
+<br/>
+
 * 모델 예측 & 검증 확인
 ![0220223731652743](https://user-images.githubusercontent.com/112140344/220123389-da22081d-f166-4534-b428-62c47443430a.jpg)
 
@@ -112,10 +122,4 @@
 
 * 회고
 ![image](https://user-images.githubusercontent.com/112140344/220128312-c9b4c20d-9bec-44cc-a19f-1b006c8039be.png)
-
-
-
-
-
-
 
